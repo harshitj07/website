@@ -79,28 +79,7 @@ p.caption {
 	text-align: center;
 }
 
-div.me {
-	background-color: #1c1c1c;
-	padding: 25px;
-	margin: 10px;
-	border-radius: 10px;
-}
-
-div.as {
-	background-color: #1c1c1c;
-	padding: 25px;
-	margin: 10px;
-	border-radius: 10px;
-}
-
-div.hobbies {
-	background-color: #1c1c1c;
-	padding: 25px;
-	margin: 10px;
-	border-radius: 10px;
-}
-
-div.ld {
+div.info {
 	background-color: #1c1c1c;
 	padding: 25px;
 	margin: 10px;
@@ -114,31 +93,7 @@ div.video {
 	border-radius: 10px;
 }
 
-div.form {
-	color: white;
-	background-color: #1c1c1c;
-	padding: 25px;
-	margin: 10px;
-	border-radius: 10px;
-}
-
-div.soon {
-	color: white;
-	background-color: #1c1c1c;
-	padding: 25px;
-	margin: 10px;
-	border-radius: 10px;
-}
-
 div.mail {
-	color: white;
-	background-color: #1c1c1c;
-	padding: 25px;
-	margin: 10px;
-	border-radius: 10px;
-}
-
-div.soon {
 	color: white;
 	background-color: #1c1c1c;
 	padding: 25px;
